@@ -1,5 +1,5 @@
 ## Sorting Algos:
-### Bubble Sort
+<!-- ### Bubble Sort -->
 ### Insertion Sort
 ### Selection Sort
 ### Merge Sort
