@@ -5,3 +5,4 @@
 ### Merge Sort
 ### Count Sort
 ### Wave Sort
+### Quick Sort
