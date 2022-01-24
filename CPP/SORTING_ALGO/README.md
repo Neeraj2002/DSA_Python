@@ -6,3 +6,4 @@
 ### Count Sort
 ### Wave Sort
 ### Quick Sort
+### Pair
